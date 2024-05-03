@@ -1,17 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hii my name is shivam anand . I am a mern stack developer</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam03-coder &hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam03-coder &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src=""  />
+<h2 align="left">Hii my name is shivam anand . I am a mern stack developer</h2>
 
 ###
 
@@ -61,15 +50,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=BLACK&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shivam03-coder /Shivam03-coder /output/snake.svg" alt="Snake animation" />
-
-###
-
-<h1 align="center">MERN DEVELOPER</h1>
 
 ###
