@@ -3,6 +3,8 @@
 
 ###
 
+<h2>SKILLS</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -40,6 +42,7 @@
 </div>
 
 ###
+<h2>SOCIAL-MEDIA</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/_shivam_anand__?igsh=MXFvc3E5dGo1dnV1eg==" target="_blank">
