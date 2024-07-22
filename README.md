@@ -1,6 +1,5 @@
 <br clear="both">
 
-<h2 align="left">Hii my name is shivam anand . I am a mern stack developer</h2>
 
 ###
 
