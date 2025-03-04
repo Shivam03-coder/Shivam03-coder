@@ -12,8 +12,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam03-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam03-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/Shivam03-coder/Shivam03-coder/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shivam03-coder/count.svg?"  />
+</div>
+
+###
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivam03-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
