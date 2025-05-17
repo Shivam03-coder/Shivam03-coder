@@ -105,7 +105,7 @@
   </tr>
    <tr>
 <td style="padding: 10px; min-height: 200px; text-align: center;" >
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shivam03-coder&layout=compact&theme=neon" alt="Wakatime Stats" style="display: block; margin: 0 auto;"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shivam03coder&layout=compact&theme=neon" alt="Wakatime Stats" style="display: block; margin: 0 auto;"/>
     </td>
    <td style="padding: 10px; min-height: 200px;">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam03-coder&layout=compact&theme=chartreuse-dark"/>
