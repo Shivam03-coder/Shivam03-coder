@@ -92,3 +92,23 @@
 
 ###
 
+## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td style="padding: 10px; min-height: 200px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam03-coder&theme=midnight-purple&hide_border=false"/>
+    </td>
+    <td style="padding: 10px; min-height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shivam03-coder&show_icons=true&theme=vision-friendly-dark&hide=contribs&hide_border=false&include_all_commits=true&count_private=true"/>
+    </td>
+  </tr>
+   <tr>
+<td style="padding: 10px; min-height: 200px; text-align: center;" >
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shivam03-coder&layout=compact&theme=neon" alt="Wakatime Stats" style="display: block; margin: 0 auto;"/>
+    </td>
+   <td style="padding: 10px; min-height: 200px;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam03-coder&layout=compact&theme=chartreuse-dark"/>
+    </td> 
+  </tr> 
+</table>
